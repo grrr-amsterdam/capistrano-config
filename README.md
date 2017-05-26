@@ -1,4 +1,4 @@
-# Capistrano SSH Wrapper
+# Capistrano Config
 [![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/capistrano-config.svg)](https://greenkeeper.io/)
 
 
