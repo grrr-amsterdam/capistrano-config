@@ -1,0 +1,24 @@
+{
+  "name": "capistrano-config",
+  "version": "1.0.0",
+  "description": "Find and parse local Capistrano configuration for a project.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grrr-amsterdam/capistrano-config.git"
+  },
+  "keywords": [
+    "capistrano",
+    "deploy",
+    "configuration"
+  ],
+  "author": "David Spreekmeester <david@grrr.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grrr-amsterdam/capistrano-config/issues"
+  },
+  "homepage": "https://github.com/grrr-amsterdam/capistrano-config#readme"
+}
