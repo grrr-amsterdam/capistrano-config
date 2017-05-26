@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/grrr-amsterdam/capistrano-config/issues"
   },
-  "homepage": "https://github.com/grrr-amsterdam/capistrano-config#readme"
+  "homepage": "https://github.com/grrr-amsterdam/capistrano-config#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "shelljs": "^0.7.7"
+  }
 }
