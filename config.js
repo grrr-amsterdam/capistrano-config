@@ -8,7 +8,7 @@ const parser    = require('./parser.js')
 
 module.exports = {
     
-    findSshConfig: function(target) {
+    getConfig: function(target) {
         var cmd = 'find . -name ' + target + '.rb'
 
         var paths = shell.exec(cmd, {silent:true}).stdout
