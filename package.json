@@ -1,6 +1,6 @@
 {
   "name": "capistrano-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find and parse local Capistrano configuration for a project.",
   "main": "config.js",
   "scripts": {
