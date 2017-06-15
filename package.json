@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/grrr-amsterdam/capistrano-config#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "shelljs": "^0.7.7"
   }
 }
